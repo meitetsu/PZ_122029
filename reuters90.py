@@ -148,3 +148,6 @@ for i,x in enumerate(XT):
 print(pozytywne)
 print(wszystkie)
 
+# Zadania na zaliczenie polowy zajec 28.04.2017:
+# 1. Uwzglednic tf-idf w metodzie SVM dla corpusu AP
+# 2. Zaimplementowac metode klasyfikacji Naive Bayes z maksymalnym wykorzystaniem kodu SVM
